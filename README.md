@@ -1,2 +1,2 @@
 # EmotiPedia
-Dictionary for Emojis, a React JS practice Project
+Dictionary for Emotes or emojis, a React JS practice Project
